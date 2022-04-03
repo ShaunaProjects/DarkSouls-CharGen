@@ -1,0 +1,470 @@
+,Class,Location,Weapon
+0,warrior,Astora,Battle Axe
+1,knight,Balder,Butcher Knife
+2,wanderer,Carim,Crescent Axe
+3,thief,Catarina,Gargoyle Tail Axe
+4,bandit,Eastern Land,Golem Axe
+5,hunter,Fivefinger Delta,Hand Axe
+6,sorcerer,Great Swamp,Black Bow of Pharis
+7,pyromancer,Thorolund,Composite Bow
+8,cleric,Vinheim,Darkmoon Bow
+9,deprived,Zena,Dragonslayer Greatbow
+10,swordsman,Forossa,Gough's Greatbow
+11,explorer,High Seas,Longbow
+12,mercenary,Jugo,Short Bow
+13,herald,Lanafir,Avelyn
+14,assassin,Lindelt,Heavy Crossbow
+15,,Melfia,Light Crossbow
+16,,Mirrah,Sniper Crossbow
+17,,Olaphis,Gravelord Sword
+18,,Volgen,Murakumo
+19,,Carthus of the Sands,Server
+20,,Courland,Falchion
+21,,Londor,Gold Tracer
+22,,,Jagged Ghost Blade
+23,,,Painting Guardian Sword
+24,,,Quelaag's Furysword
+25,,,Scimitar
+26,,,Shotel
+27,,,Bandit's Knife
+28,,,Dagger
+29,,,Dark Silver Tracer
+30,,,Ghost Blade
+31,,,Parrying Dagger
+32,,,Priscilla's Dagger
+33,,,Caestus
+34,,,Claw
+35,,,Dark Hand
+36,,,Dragon Bone Fist
+37,,,Fists
+38,,,Demon's Great Hammer
+39,,,Dragon Tooth
+40,,,Grant
+41,,,Great Club
+42,,,Large Club
+43,,,Smough's Hammer
+44,,,Black Knight Greataxe
+45,,,Demon's Greataxe
+46,,,Dragon King Greataxe
+47,,,Greataxe
+48,,,Stone Greataxe
+49,,,Abyss Greatsword
+50,,,Bastard Sword
+51,,,Black Knight Sword
+52,,,Claymore
+53,,,Crystal Greatsword
+54,,,Flamberge
+55,,,Great Lord Greatsword
+56,,,Greatsword of Artorias
+57,,,Greatsword of Artorias (Cursed)
+58,,,Man-serpent Greatsword
+59,,,Moonlight Greatsword
+60,,,Obsidian Greatsword
+61,,,Stone Greatsword
+62,,,Black Knight Halberd
+63,,,Gargoyle's Halberd
+64,,,Giant's Halberd
+65,,,Great Scythe
+66,,,Halberd
+67,,,Lifehunt Scythe
+68,,,Lucerne
+69,,,Scythe
+70,,,Titanite Catch Pole
+71,,,Blacksmith Hammer
+72,,,Blacksmith Giant Hammer
+73,,,Club
+74,,,Hammer of Vamos
+75,,,Mace
+76,,,Morning Star
+77,,,Pickaxe
+78,,,Reinforced Club
+79,,,Warpick
+80,,,Chaos Blade
+81,,,Iaito
+82,,,Uchigatana
+83,,,Washing Pole
+84,,,Channeler's Trident
+85,,,Demon's Spear
+86,,,Dragonslayer Spear
+87,,,Four-Pronged Plow
+88,,,Moonlight Butterfly Horn
+89,,,Partizan
+90,,,Pike
+91,,,Silver Knight Spear
+92,,,Spear
+93,,,Winged Spear
+94,,,Astora's Straight Sword
+95,,,Balder Side Sword
+96,,,Barbed Straight Sword
+97,,,Broadsword
+98,,,Broken Straight Sword
+99,,,Crystal Straight Sword
+100,,,Darksword
+101,,,Drake Sword
+102,,,Longsword
+103,,,Shortsword
+104,,,Silver Knight Straight Sword
+105,,,Sunlight Straight Sword
+106,,,Straight Sword Hilt
+107,,,Estoc
+108,,,Mail Breaker
+109,,,Rapier
+110,,,Ricard's Rapier
+111,,,Velka's Rapier
+112,,,Black Knight Greatsword
+113,,,Demon Great Machete
+114,,,Dragon Greatsword
+115,,,Greatsword
+116,,,Zweihander
+117,,,Guardian Tail
+118,,,Notched Whip
+119,,,Whip
+120,,,Beatrice's Catalyst
+121,,,Demon's Catalyst
+122,,,Izalith Catalyst
+123,,,Logan's Catalyst
+124,,,Manus Catalyst
+125,,,Oolacile Catalyst
+126,,,Oolacile Ivory Catalyst
+127,,,Sorcerer's Catalyst
+128,,,Tin Banishment Catalyst
+129,,,Tin Crystallization Catalyst
+130,,,Tin Darkmoon Catalyst
+131,,,Canvas Talisman
+132,,,Darkmoon Talisman
+133,,,Ivory Talisman
+134,,,Sunlight Talisman
+135,,,Talisman
+136,,,Thorolund Talisman
+137,,,Velka's Talisman
+138,,,Pyromancy Flame
+139,,,Skull Lantern
+140,,,Bandit Axe
+141,,,Bound Hand Axe
+142,,,Butcher's Knife
+143,,,Dragonslayer's Crescent Axe
+144,,,Gyrm Axe
+145,,,Infantry Axe
+146,,,Bell Keeper Bow
+147,,,Bow of Want
+148,,,Dragonrider Bow
+149,,,Hunter's Blackbow
+150,,,Long Bow
+151,,,Sea Bow
+152,,,Claws
+153,,,Malformed Claws
+154,,,Manikin Claws
+155,,,Work Hook
+156,,,Sanctum Crossbow
+157,,,Sanctum Repeating Crossbow
+158,,,Shield Crossbow
+159,,,Arced Sword
+160,,,Curved Dragon Greatsword
+161,,,Curved Nil Greatsword
+162,,,Eleum Loyce
+163,,,Manikin Sabre
+164,,,Melu Scimitar
+165,,,Monastery Scimitar
+166,,,Red Rust Scimitar
+167,,,Spider Fang
+168,,,Warped Sword
+169,,,Black Flamestone Dagger
+170,,,Blue Dagger
+171,,,Broken Thief Sword
+172,,,Manikin Knife
+173,,,Mytha's Bent Blade
+174,,,Retainer's Short Sword
+175,,,Royal Dirk
+176,,,Shadow Dagger
+177,,,Thief Dagger
+178,,,Umbral Dagger
+179,,,Bone Fist
+180,,,Bandit Greataxe
+181,,,Black Dragon Greataxe
+182,,,Drakekeeper's Greataxe
+183,,,Giant Stone Axe
+184,,,Gyrm Greataxe
+185,,,Lion Greataxe
+186,,,Alonne Greatbow
+187,,,Possessed Armor Greatbow
+188,,,Twin-headed Greatbow
+189,,,Archdrake Mace
+190,,,Drakekeeper's Great Hammer
+191,,,Drakekeeper's Warpick
+192,,,Giant Warrior Club
+193,,,Gyrm Great Hammer
+194,,,Iron King Hammer
+195,,,Malformed Shell
+196,,,Malformed Skull
+197,,,Old Knight Hammer
+198,,,Sacred Chime Hammer
+199,,,Sanctum Mace
+200,,,Smelter Hammer
+201,,,Black Dragon Greatsword
+202,,,Bluemoon Greatsword
+203,,,Charred Loyce Greatsword
+204,,,Defender Greatsword
+205,,,Drakeblood Greatsword
+206,,,Drangleic Sword
+207,,,Greatsword of the Forlorn
+208,,,Key to the Embedded
+209,,,Loyce Greatsword
+210,,,Majestic Greatsword
+211,,,Mastodon Greatsword
+212,,,Mirrah Greatsword
+213,,,Old Knight Greatsword
+214,,,Old Mirrah Greatsword
+215,,,Royal Greatsword
+216,,,Ruler's Sword
+217,,,Thorned Greatsword
+218,,,Watcher Greatsword
+219,,,Blue Knight's Halberd
+220,,,Dragonrider's Halberd
+221,,,Helix Halberd
+222,,,Mastodon Halberd
+223,,,Old Knight Halberd
+224,,,Old Knight Pike
+225,,,Roaring Halberd
+226,,,Santier's Spear
+227,,,Syan's Halberd
+228,,,Wrathful Axe
+229,,,Aldia Hammer
+230,,,Barbed Club
+231,,,Blacksmith's Hammer
+232,,,Black Dragon Warpick
+233,,,Craftsman's Hammer
+234,,,Handmaid's Ladle
+235,,,Homunculus Mace
+236,,,Mace of the Insolent
+237,,,Berserker Blade
+238,,,Bewitched Alonne Sword
+239,,,Blacksteel Katana
+240,,,Darkdrift
+241,,,Manslayer
+242,,,Chariot Lance
+243,,,Heide Greatlance
+244,,,Heide Lance
+245,,,Grand Lance
+246,,,Rampart Golem Lance
+247,,,Bone Scythe
+248,,,Crescent Sickle
+249,,,Full Moon Sickle
+250,,,Great Machete
+251,,,Scythe of the Forlorn
+252,,,Scythe of Nahr Alma
+253,,,Scythe of Want
+254,,,Silverblack Sickle
+255,,,Gargoyle Bident
+256,,,Heide Spear
+257,,,Pate's Spear
+258,,,Pilgrim's Spontoon
+259,,,Silverblack Spear
+260,,,Spitfire Spear
+261,,,Stone Soldier Spear
+262,,,Yorgh's Spear
+263,,,Ashen Warrior Sword
+264,,,Black Dragon Sword
+265,,,Blue Flame
+266,,,Drakekeeper's Sword
+267,,,Foot Soldier Sword
+268,,,Fume Sword
+269,,,Heide Knight Sword
+270,,,Ivory Straight Sword
+271,,,Possessed Armor Sword
+272,,,Puzzling Stone Sword
+273,,,Red Rust Sword
+274,,,Sun Sword
+275,,,Varangian Sword
+276,,,Yellow Quartz Longsword
+277,,,Black Scorpion Stinger
+278,,,Chaos Rapier
+279,,,Espada Ropera
+280,,,Spider's Silk
+281,,,Ice Rapier
+282,,,Curved Twinblade
+283,,,Dragonrider Twinblade
+284,,,Red Iron Twinblade
+285,,,Sorcerer's Twinblade
+286,,,Stone Twinblade
+287,,,Twinblade
+288,,,Aged Smelter Sword
+289,,,Black Knight Ultra Greatsword
+290,,,Crypt Blacksword
+291,,,Drakekeeper's Ultra Greatsword
+292,,,Drakewing Ultra Greatsword
+293,,,Fume Ultra Greatsword
+294,,,Ivory King Ultra Greatsword
+295,,,King's Ultra Greatsword
+296,,,Lost Sinner's Sword
+297,,,Old Knight Ultra Greatsword
+298,,,Pursuer's Ultra Greatsword
+299,,,Smelter Sword
+300,,,Bloodied Whip
+301,,,Old Whip
+302,,,Spotted Whip
+303,,,Archdrake Staff
+304,,,Azal's Staff
+305,,,Bat Staff
+306,,,Black Witch's Staff
+307,,,Bone Staff
+308,,,Lizard Staff
+309,,,Olenford's Staff
+310,,,Sorcerer's Staff
+311,,,Retainer Staff
+312,,,Staff of Amana
+313,,,Staff of Wisdom
+314,,,Sunset Staff
+315,,,Transgressor's Staff
+316,,,Witchtree Branch
+317,,,Archdrake Chime
+318,,,Caitha's Chime
+319,,,Chime of Screams
+320,,,Chime of Want
+321,,,Cleric's Sacred Chime
+322,,,Disc Chime
+323,,,Dragon Chime
+324,,,Idol's Chime
+325,,,Priest's Chime
+326,,,Protective Chime
+327,,,Witchtree Bellvine
+328,,,Dark Pyromancy Flame
+329,,,Harpe
+330,,,Rotten Ghru Dagger
+331,,,Corvian Greatknife
+332,,,Murky Hand Scythe
+333,,,Handmaid's Dagger
+334,,,Scholar's Candlestick
+335,,,Aquamarine Dagger
+336,,,Tailbone Short Sword
+337,,,Brigand Twindaggers
+338,,,Long Sword
+339,,,Astora Straight Sword
+340,,,Lothric Knight Sword
+341,,,Dark Sword
+342,,,Cleric's Candlestick
+343,,,Irithyll Straight Sword
+344,,,Anri's Straight Sword
+345,,,Morion Blade
+346,,,Ringed Knight Straight Sword
+347,,,Lothric's Holy Sword
+348,,,Gotthard Twinswords
+349,,,Valorheart
+350,,,Executioner's Greatsword
+351,,,Onyx Blade
+352,,,Hollowslayer Greatsword
+353,,,Wolnir's Holy Sword
+354,,,Greatsword of Judgment
+355,,,Storm Ruler
+356,,,Wolf Knight's Greatsword
+357,,,Firelink Greatsword
+358,,,Twin Princes' Greatsword
+359,,,Gael's Greatsword
+360,,,Astora Greatsword
+361,,,Lothric Knight Greatsword
+362,,,Cathedral Knight Greatsword
+363,,,Profaned Greatsword
+364,,,Lorian's Greatsword
+365,,,Ringed Knight Paired Greatswords
+366,,,Farron Greatsword
+367,,,Carthus Curved Sword
+368,,,Carthus Shotel
+369,,,Rotten Ghru Curved Sword
+370,,,Painting Guardian's Curved Sword
+371,,,Follower Sabre
+372,,,Pontiff Knight Curved Sword
+373,,,Crescent Moon Sword
+374,,,Storm Curved Sword
+375,,,Demon's Scar
+376,,,Sellsword Twinblades
+377,,,Warden Twinblades
+378,,,Dancer's Enchanted Swords
+379,,,Carthus Curved Greatsword
+380,,,Exile Greatsword
+381,,,Harald Curved Greatsword
+382,,,Old Wolf Curved Sword
+383,,,Irithyll Rapier
+384,,,Crystal Sage's Rapier
+385,,,Crow Quills
+386,,,Black Blade
+387,,,Bloodlust
+388,,,Frayed Blade
+389,,,Onikiri and Ubadachi
+390,,,Thrall Axe
+391,,,Brigand Axe
+392,,,Dragonslayer's Axe
+393,,,Millwood Battle Axe
+394,,,Man Serpent Hatchet
+395,,,Eleonora
+396,,,Winged Knight Twinaxes
+397,,,Dragonslayer Greataxe
+398,,,Yhorm's Great Machete
+399,,,Earth Seeker
+400,,,Heysel Pick
+401,,,Drang Hammers
+402,,,Great Mace
+403,,,Spiked Mace
+404,,,Great Wooden Hammer
+405,,,Gargoyle Flame Hammer
+406,,,Morne's Great Hammer
+407,,,Smough's Great Hammer
+408,,,Quakestone Hammer
+409,,,Ledo's Great Hammer
+410,,,Vordt's Great Hammer
+411,,,Old King's Great Hammer
+412,,,Rotten Ghru Spear
+413,,,Saint Bident
+414,,,Follower Javelin
+415,,,Gargoyle Flame Spear
+416,,,Soldering Iron
+417,,,Yorshka's Spear
+418,,,Golden Ritual Spear
+419,,,Tailbone Spear
+420,,,Arstor's Spear
+421,,,Dragonslayer Swordspear
+422,,,Drang Twinspears
+423,,,Greatlance
+424,,,Lothric Knight Long Spear
+425,,,Lothric War Banner
+426,,,Ringed Knight Spear
+427,,,Red Hilted Halberd
+428,,,Glaive
+429,,,Winged Knight Halberd
+430,,,Splitleaf Greatsword
+431,,,Black Knight Glaive
+432,,,Crucifix of the Mad King
+433,,,Immolation Tinder
+434,,,Gundyr's Halberd
+435,,,Great Corvian Scythe
+436,,,Pontiff Knight Great Scythe
+437,,,Friede's Great Scythe
+438,,,Witch's Locks
+439,,,Rose of Ariandel
+440,,,Demon's Fist
+441,,,Crow Talons
+442,,,Torch
+443,,,Follower Torch
+444,,,White Birch Bow
+445,,,Darkmoon Longbow
+446,,,Onislayer Greatbow
+447,,,Millwood Greatbow
+448,,,Arbalest
+449,,,Knight's Crossbow
+450,,,Repeating Crossbow
+451,,,Heretic's Staff
+452,,,Court Sorcerer's Staff
+453,,,Storyteller's Staff
+454,,,Mendicant's Staff
+455,,,Murky Longstaff
+456,,,Izalith Staff
+457,,,Man-grub's Staff
+458,,,Preacher's Right Arm
+459,,,Sage's Crystal Staff
+460,,,Archdeacon's Great Staff
+461,,,Pyromancer's Parting Flame
+462,,,Saint's Talisman
+463,,,Sunless Talisman
+464,,,White Hair Talisman
+465,,,Saint-tree Bellvine
+466,,,Yorshka's Chime
+467,,,Crystal Chime
+468,,,Sacred Chime of Filianore
